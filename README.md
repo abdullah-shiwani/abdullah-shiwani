@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-shiwani&theme=dark&hide_border=true&background=22272E&stroke=485362)](https://git.io/streak-stats)
 <!--
 **abdullah-shiwani/abdullah-shiwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
